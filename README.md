@@ -396,10 +396,10 @@ Completer le tableau ci-dessous avec les quantités vous semblant adéquates pou
 
 | Symboles | Paramètres | Quantités Biologiques |
 | --- | --- | --- |
-| k | nombre de succès observés| |
-| K | nombre de succès possibles| |
-| n | nombre d'observations| |
-| N | nombre d'elements observables| |
+| k | nombre de succès observés| Parmi le prot surexprimés quelles sont celles qui portent la fonction biologique  |
+| K | nombre de succès possibles| Nombre de protéines dans le pathway d'intérêt |
+| n | nombre d'observations| nombre de prot surrabondantes (23) |
+| N | nombre d'elements observables| Toutes les prot qui existent ou mesurées ou protéome |
 
 #### 4. Calcul de l'enrichissement en fonction biologiques
 
